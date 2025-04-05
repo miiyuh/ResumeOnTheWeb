@@ -74,13 +74,13 @@ const skills: Skill[] = [
     id: 11,
     icon: "/images/skills/photography.png",
     name: "Photography & Cinematography",
-    technologies: ["Adobe Photoshop", "Adobe Lightroom"],
+    technologies: ["Affinity Designer", "Adobe Lightroom"],
   },
   {
     id: 12,
     icon: "/images/skills/fcpx.png",
     name: "Photo & Video Post-Processing",
-    technologies: ["Adobe After Effects", "Final Cut Pro X"],
+    technologies: ["DaVinci Resolve", "Adobe Premiere Pro"],
   },
 ];
 

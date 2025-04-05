@@ -11,7 +11,7 @@ const AboutMe = () => (
         <Image
           fill
           alt="Selfie Boy"
-          src="/images/about-me/selfie-boy.svg"
+          src="/images/about-me/kazuha.svg"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
       </div>
