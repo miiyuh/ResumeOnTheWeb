@@ -4,11 +4,11 @@
 
 ### Badges of Honor
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/amruthpillai.com.svg)](https://amruthpillai.com/)
-[![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://amruthpillai.com/)
-[![Last Commit](https://img.shields.io/github/last-commit/amruthpillai/resumeontheweb.svg?style=flat)](https://amruthpillai.com/)
-![Code Size](https://img.shields.io/github/languages/code-size/amruthpillai/resumeontheweb.svg?style=flat)
-![MIT License](https://img.shields.io/github/license/amruthpillai/resumeontheweb.svg?style=flat)
+[![Website](https://img.shields.io/website-up-down-green-red/http/miiyuh.com.svg)](https://miiyuh.com/)
+[![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://miiyuh.com/)
+[![Last Commit](https://img.shields.io/github/last-commit/miiyuh/resumeontheweb.svg?style=flat)](https://miiyuh.com/)
+![Code Size](https://img.shields.io/github/languages/code-size/miiyuh/resumeontheweb.svg?style=flat)
+![MIT License](https://img.shields.io/github/license/miiyuh/resumeontheweb.svg?style=flat)
 
 ---
 
