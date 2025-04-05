@@ -1,4 +1,4 @@
-<img src="[https://i.imgur.com/OtNqaaO.png](https://miiyuh.com/assets/img/resume_on_the_web.png)" alt="Resume on the Web" width="400px" />
+<img src="[https://miiyuh.com/assets/img/resume_on_the_web.png]" alt="Resume on the Web" width="400px" />
 
 ---
 
