@@ -25,7 +25,7 @@ The website features a variety of tidbits from across the web, from how the serv
 
 To check out the live version of the site in all of it's glory, head over to:
 
-### https://www.amruthpillai.com/
+### https://www.miiyuh.com/
 
 ## About the Project
 
@@ -37,7 +37,7 @@ This version of the project was built using [NextJS](https://www.nextjs.org/) (R
 
 I hope you loved the site as much as I enjoyed developing it and learning from it. If you did, please let me know using the [contact form](#contact) on the website, I would be **ecstatic** to hear from you.
 
-If you would like to peek around the code and see what makes this website tick, the complete source code is open to probing right here on GitHub. You can even edit it to make your own version of the site, as this project is copylefted under the permissive [MIT License](https://github.com/AmruthPillai/ResumeOnTheWeb/blob/master/LICENSE).
+If you would like to peek around the code and see what makes this website tick, the complete source code is open to probing right here on GitHub. You can even edit it to make your own version of the site, as this project is copylefted under the permissive [MIT License](https://github.com/miiyuh/ResumeOnTheWeb/blob/master/LICENSE).
 
 ## Screenshots
 
