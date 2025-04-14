@@ -22,7 +22,7 @@ const Contact = () => {
 
   const [isSubmitted, setSubmitted] = useState(false);
 
-  const [submit, submitting] = useFormspark({ formId: "LVr3mgSu" });
+  const [submit, submitting] = useFormspark({ formId: "IaUkPYV76" });
 
   const onSubmit = handleSubmit(async (data) => {
     await submit(data);
@@ -53,7 +53,7 @@ const Contact = () => {
           label="Full Name"
           className="md:w-3/4"
           hasError={!!errors.name}
-          placeholder="Regina Phalange"
+          placeholder="Mikasa Ackerman"
           description={errors.name?.message || "The one where you tell me your name"}
           {...register("name", { required: { value: true, message: "This is a required field" } })}
         />
@@ -63,7 +63,7 @@ const Contact = () => {
           className="md:w-3/4"
           label="Email Address"
           hasError={!!errors.email}
-          placeholder="regina@centralperk.com"
+          placeholder="mikasa@scouts.com"
           description={errors.email?.message || "The one where you tell me how I can contact you back"}
           {...register("email", {
             required: { value: true, message: "This is a required field" },
