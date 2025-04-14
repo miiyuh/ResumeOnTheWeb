@@ -8,33 +8,21 @@ const languagesList: Language[] = [
   },
   {
     id: 2,
-    language: "Tamil",
-    text: "தமிழ் என் தாய்மொழி.",
-    translation: "Tamil is my native tongue.",
+    language: "Malay",
+    text: "Bahasa Melayu adalah bahasa ibunda saya.",
+    translation: "Malay is my native tongue.",
   },
   {
     id: 3,
-    language: "Kannada",
-    text: "ನನಗೆ ಕನ್ನಡ ಕೂಡ ಸ್ವಲ್ಪ ಬರುತ್ತೆ.",
-    translation: "I know a bit of Kannada as well.",
+    language: "Japanese",
+    text: "進撃の巨人などのアニメを見て日本語を少し知っています。",
+    translation: "I know Japanese a bit from watching anime such as Attack on Titan",
   },
   {
     id: 4,
-    language: "Hindi",
-    text: "में मुश्किल से हिंदी बात करता हूँ|",
-    translation: "I speak Hindi with some difficulty.",
-  },
-  {
-    id: 5,
-    language: "German",
-    text: "Ich lerne Deutsch auf Duolingo.",
-    translation: "I am currently learning German on Duolingo.",
-  },
-  {
-    id: 6,
-    language: "Italian",
-    text: "Bella Ciao, Bella Ciao, Bella Ciao Ciao Ciao!",
-    translation: "That's all the Italian I know. Credits: Money Heist",
+    language: "Arabic",
+    text: " أعرف القليل اللغة العربية منذ الصغر",
+    translation: "I know a bit of arabic since little.",
   },
 ];
 
