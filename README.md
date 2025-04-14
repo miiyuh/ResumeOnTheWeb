@@ -41,7 +41,7 @@ If you would like to peek around the code and see what makes this website tick, 
 
 ## Screenshots
 
-Here is just a small sneak peek of how the website looks. The screenshots really don't do justice to the interactivity the live site provides, so head on over to https://www.amruthpillai.com/.
+Here is just a small sneak peek of how the website looks. The screenshots really don't do justice to the interactivity the live site provides, so head on over to https://www.miiyuh.com/.
 
 | Landing                              | Projects                             | Languages                            |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
