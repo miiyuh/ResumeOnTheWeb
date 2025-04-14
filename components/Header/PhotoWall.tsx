@@ -3,10 +3,10 @@ import clsx from "clsx";
 import Image from "next/image";
 
 const photos: string[] = [
-  "./images/photo-wall/IMG_3461.jpg",
-  "./images/photo-wall/IMG_3661.jpg",
-  "./images/photo-wall/IMG_1740131503967.jpeg",
-  "./images/photo-wall/IMG_1739589814486.jpeg",
+  "/images/photo-wall/IMG_3461.jpg",
+  "/images/photo-wall/IMG_3661.jpg",
+  "/images/photo-wall/IMG_1740131503967.jpeg",
+  "/images/photo-wall/IMG_1739589814486.jpeg",
   ];
 
 type Props = {
