@@ -20,28 +20,27 @@ const AboutMe = () => (
         <p>Hey there!</p>
 
         <p>
-          I&apos;m Amruth Pillai, and as you might have already read, I&apos;m a designer, developer, photographer and a
-          writer. This website was made to showcase all of what I can do and plan to do. Don&apos;t judge my writing
-          based on this section though, this is by far my shoddiest work yet.
+          Hey, I'm Azri, a passionate Computer Forensics student at Management and Science University (MSU), 
+          deeply interested in the world of cybersecurity, digital forensics, and software development. 
+          My academic journey has shaped me into someone who's not just focused on code, 
+          but also on building practical, user-focused tools that make a real difference.
         </p>
 
         <p>
-          I got into design because I consider myself a pseudo-perfectionist, if that&apos;s even a word? As in, I hate
-          to see things &apos;not look good&apos;. So I set out on a journey to make products that people use that
-          &apos;look great&apos;, and I&apos;m forever on that path.
+          I'm currently developing LockMe, a desktop application for file encryption and decryption as my Final Year Project. 
+          With LockMe, my goal is to provide a simple yet secure way for users to protect their personal and confidential files, 
+          helping people take control of their own digital privacy with confidence and ease.
         </p>
 
         <p>
-          I got into development because computers have always fascinated me.<code>int i = 10;</code> creates an integer
-          of value 10? LIKE, WOW! But seriously, just seeing code getting converted to things we use regularly, like
-          Facebook or Amazon, was no less than magic to me and that&apos;s where my quest to invent began.
+          Outside the tech space, I'm a huge fan of drawing, anime, and exploring the behind-the-scenes production of how animated stories are crafted. 
+          From storyboarding to animation direction, I love learning how creators bring entire worlds to life. 
+          This creative curiosity often crosses over into my design work, especially when I'm working on UI/UX or imagining how users interact with the tools I build.
         </p>
 
         <p>
-          I got into photography for a very philosophical reason and a very weird one at that. To me, photography is no
-          less than time-travel. When I look at a photo, I am instantly transported to that moment in time when I shot
-          it, that memory takes over. It&apos;s a beautiful art form to express creativity as well, and it&apos;s been a
-          passion of mine since my childhood.
+          I also do photography as a hobby, capturing everyday moments and turning them into visual stories. 
+          Whether it's landscapes, portraits, or street scenes, photography helps me slow down and see the world differently.
         </p>
 
         <p>
