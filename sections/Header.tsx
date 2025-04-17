@@ -22,7 +22,7 @@ const Header: React.FC = () => {
       <h1 className="sr-only">
         Muhamad Azri - Resume on the Web
         <br />
-        Designer, Developer, Photographer, Writer
+        Designer, Developer, Photographer, Writer, Artist
         <br />
         Shah Alam, Malaysia
       </h1>
