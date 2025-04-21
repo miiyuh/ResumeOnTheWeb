@@ -1,4 +1,4 @@
-<img src="https://miiyuh.com/assets/img/resume_on_the_web.png" alt="Resume on the Web" width="400px" />
+<img src="https://miiyuh.my/assets/img/resume_on_the_web.png" alt="resume on the web" width="400px" />
 
 ---
 
@@ -17,7 +17,7 @@ Everyone needs their own little spot on the interwebs, and this is mine.
 
 ## Introduction
 
-This is the official open source repository of my website/resume aptly titled, Resume on the Web. It is build on the latest technologies, trying to put together as much of what I have learnt over the years intro practice.
+This is a fork of the official open source repository of a website/resume aptly titled, Resume on the Web. It is build on the latest technologies, trying to put together as much of what the original creator have learnt over the years into practice.
 
 The website features a variety of tidbits from across the web, from how the server is set up to the animations on the page. This README.md serves as a feature list as to what all has made this website special, and a proof of source for anyone else to fork and work on their own version of the website (with due credits, of course).
 
@@ -25,11 +25,11 @@ The website features a variety of tidbits from across the web, from how the serv
 
 To check out the live version of the site in all of it's glory, head over to:
 
-### https://www.miiyuh.com/
+### https://www.muhamad-azri.my/
 
 ## About the Project
 
-**Resume on the Web** has been a project that I've been focused on since the early 2014s. I didn't want my information to be displayed on just a sheet of paper that only HRs or Talent Scouts had the privilege of reading, I wanted it to be accessible to everyone. And that's how this project was conceptualized.
+**resume on the web** has been a project that I've been focused on since 2025. I didn't want my information to be displayed on just a sheet of paper that only HRs or Talent Scouts had the privilege of reading, I wanted it to be accessible to everyone. And that's how this project was conceptualized.
 
 I constantly update it to match who I am, because just like this website, I don't have a static personality. I use the latest technologies and use this platform to challenge myself into learning new frameworks, new build tools, experiment with new design ideas while keeping the core principle of getting to know me as simple as possible.
 
@@ -37,11 +37,11 @@ This version of the project was built using [NextJS](https://www.nextjs.org/) (R
 
 I hope you loved the site as much as I enjoyed developing it and learning from it. If you did, please let me know using the [contact form](#contact) on the website, I would be **ecstatic** to hear from you.
 
-If you would like to peek around the code and see what makes this website tick, the complete source code is open to probing right here on GitHub. You can even edit it to make your own version of the site, as this project is copylefted under the permissive [MIT License](https://github.com/miiyuh/ResumeOnTheWeb/blob/master/LICENSE).
+If you would like to peek around the code and see what makes this website tick, the complete source code is open to probing right here on GitHub. You can even edit it to make your own version of the site, as this project is copylefted under the permissive [MIT License](https://github.com/miiyuh/resumeontheweb/blob/master/LICENSE).
 
 ## Screenshots
 
-Here is just a small sneak peek of how the website looks. The screenshots really don't do justice to the interactivity the live site provides, so head on over to https://www.miiyuh.com/.
+Here is just a small sneak peek of how the website looks. The screenshots really don't do justice to the interactivity the live site provides, so head on over to https://www.muhamad-azri.my/.
 
 | Landing                              | Projects                             | Languages                            |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
@@ -91,4 +91,4 @@ pnpm build
 
 ---
 
-![Great Gatsby](https://i.imgur.com/Dr8j5iv.gif)
+![eren](https://tenor.com/en-GB/view/eren-eren-crying-aot-aot-final-season-aot-final-episode-gif-16691544210230833277)
