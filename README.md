@@ -91,4 +91,4 @@ pnpm build
 
 ---
 
-![eren](https://tenor.com/en-GB/view/eren-eren-crying-aot-aot-final-season-aot-final-episode-gif-16691544210230833277)
+![eren](https://media1.tenor.com/m/56RHBguJcH0AAAAd/eren-eren-crying.gif)
