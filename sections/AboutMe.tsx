@@ -20,27 +20,27 @@ const AboutMe = () => (
         <p>Hey there!</p>
 
         <p>
-          Hey, I'm Azri, a passionate Computer Forensics student at Management and Science University (MSU), 
+          Hey, I&apos;m Azri, a passionate Computer Forensics student at Management and Science University (MSU), 
           deeply interested in the world of cybersecurity, digital forensics, and software development. 
-          My academic journey has shaped me into someone who's not just focused on code, 
+          My academic journey has shaped me into someone who&apos;s not just focused on code, 
           but also on building practical, user-focused tools that make a real difference.
         </p>
 
         <p>
-          I'm currently developing LockMe, a desktop application for file encryption and decryption as my Final Year Project. 
+          I&apos;m currently developing LockMe, a desktop application for file encryption and decryption as my Final Year Project. 
           With LockMe, my goal is to provide a simple yet secure way for users to protect their personal and confidential files, 
           helping people take control of their own digital privacy with confidence and ease.
         </p>
 
         <p>
-          Outside the tech space, I'm a huge fan of drawing, anime, and exploring the behind-the-scenes production of how animated stories are crafted. 
+          Outside the tech space, I&apos;m a huge fan of drawing, anime, and exploring the behind-the-scenes production of how animated stories are crafted. 
           From storyboarding to animation direction, I love learning how creators bring entire worlds to life. 
-          This creative curiosity often crosses over into my design work, especially when I'm working on UI/UX or imagining how users interact with the tools I build.
+          This creative curiosity often crosses over into my design work, especially when I&apos;m working on UI/UX or imagining how users interact with the tools I build.
         </p>
 
         <p>
           I also do photography as a hobby, capturing everyday moments and turning them into visual stories. 
-          Whether it's landscapes, portraits, or street scenes, photography helps me slow down and see the world differently.
+          Whether it&apos;s landscapes, portraits, or street scenes, photography helps me slow down and see the world differently.
         </p>
 
         <p>
